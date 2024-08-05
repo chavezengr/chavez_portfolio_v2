@@ -1,5 +1,5 @@
 import { Container } from './styles'
-import VinayakSingh from '../../assets/fuji_j01.jpg'
+import joeramabout from '../../assets/JC.png'
 import aspnetcore from '../../assets/NET_Core_Logo.svg'
 import github from '../../assets/github.svg'
 import gitlab from '../../assets/gitlab.svg'
@@ -117,7 +117,7 @@ export function About() {
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.2 * 1000}>
-          <img src={VinayakSingh} alt="Joeram Chavez" />
+          <img src={joeramabout} alt="Joeram Chavez" />
         </ScrollAnimation>
       </div>
     </Container>

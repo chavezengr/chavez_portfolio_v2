@@ -25,7 +25,7 @@ export const Container = styled.section`
 
     img {
       height: auto;
-      width: 50px;
+      width: 45px;
     }
   }
   // New added
@@ -52,6 +52,7 @@ export const Container = styled.section`
   .hero-image {
     img {
       max-width: 600px;
+      border-radius: 20px;
     }
   }
 
