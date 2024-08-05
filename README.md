@@ -1,7 +1,5 @@
 # Portfolio of Joeram Chavez
 
-<img src ="https://github.com/chavezengr/" />
-
 ## Description:
 
 Portfolio using React Typescript
