@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/joeram-chavez-portfolio/static/css/main.039bf95e.css",
-    "main.js": "/joeram-chavez-portfolio/static/js/main.fedd5880.js",
-    "static/media/fuji_j01.jpg": "/joeram-chavez-portfolio/static/media/fuji_j01.df70b3343d858f40a6c8.jpg",
+    "main.js": "/joeram-chavez-portfolio/static/js/main.cc23996f.js",
+    "static/media/JC.png": "/joeram-chavez-portfolio/static/media/JC.59f3d72d9efc9b1af7f7.png",
+    "static/media/JC2.png": "/joeram-chavez-portfolio/static/media/JC2.a2f3db9ede77296a9332.png",
     "static/media/Hello.gif": "/joeram-chavez-portfolio/static/media/Hello.d93720933c608f6178fb.gif",
-    "static/media/joeram.svg": "/joeram-chavez-portfolio/static/media/joeram.4004f76cf38c437633bddb9781ba222f.svg",
     "static/media/JOERAM_CHAVEZ_Resume_SE.pdf": "/joeram-chavez-portfolio/static/media/JOERAM_CHAVEZ_Resume_SE.86d9546e4a326c6aec95.pdf",
     "static/media/viber.svg": "/joeram-chavez-portfolio/static/media/viber.095f343a4e8c94cb27c2aae325adf468.svg",
     "static/media/postgresql-icon.svg": "/joeram-chavez-portfolio/static/media/postgresql-icon.29aef66790dafa021ec4c36bbd59e370.svg",
@@ -29,10 +29,10 @@
     "static/media/linkedin.svg": "/joeram-chavez-portfolio/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
     "static/media/js-icon.svg": "/joeram-chavez-portfolio/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
     "main.039bf95e.css.map": "/joeram-chavez-portfolio/static/css/main.039bf95e.css.map",
-    "main.fedd5880.js.map": "/joeram-chavez-portfolio/static/js/main.fedd5880.js.map"
+    "main.cc23996f.js.map": "/joeram-chavez-portfolio/static/js/main.cc23996f.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.fedd5880.js"
+    "static/js/main.cc23996f.js"
   ]
 }
